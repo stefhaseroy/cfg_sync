@@ -136,8 +136,6 @@ with_proxy() {
 [core]
     editor = vim
 [user]
-    email = 19486826+killua525@users.noreply.github.com
-    name = killua525
 [push]
     default = simple
 [grep]
