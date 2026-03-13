@@ -1,0 +1,5 @@
+# Local build artifacts
+cfg_sync.exe
+
+# Generated output directory
+output/
